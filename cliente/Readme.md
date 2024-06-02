@@ -1,6 +1,13 @@
+
 # Cuatro en linea 
 
+
 ***Instrucciones para ejecutar el juego:***
+
+## Descripcion
+
+Este código implementa un cliente funcional para un juego de Cuatro en linea. El cliente se conecta al servidor, recibe mensajes de juego, muestra el tablero del juego, solicita al usuario que introduzca movimientos y envía los movimientos al servidor. El cliente también maneja la terminación del juego y la desconexión del servidor.
+
 
 **Compilación:**
 
