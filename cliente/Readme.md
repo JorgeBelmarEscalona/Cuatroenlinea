@@ -19,5 +19,5 @@
 
 Reemplace 8888 con el puerto que desee utilizar para el servidor si lo desea.
 Asegúrese de tener instalado el compilador y las bibliotecas necesarias para compilar el juego.
-Si encuentra algún problema al ejecutar el juego, consulte la documentación del juego o busque ayuda en línea.
+
 ¡Diviértete jugando!
