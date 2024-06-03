@@ -1,11 +1,11 @@
 
 # Cuatro en linea 
 
-***Instrucciones para ejecutar el juego:***
 
 ## Descripcion
 Este código implementa un juego de Cuatro en linea, completo con funcionalidad para servidor. El servidor gestiona las conexiones de los jugadores, el tablero del juego y la lógica del juego. Ademas de notificar a los clientes sobre los cambios en el tablero y el estado del juego. El juego termina cuando un jugador conecta cuatro fichas.
 
+***Instrucciones para ejecutar el juego:***
 
 **Compilación:**
 
